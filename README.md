@@ -1,6 +1,3 @@
-# Albert-Einstein
-This is a tribute to the world renouned scientist Albert Einstein.
-
 <link href="filename.css" rel="stylesheet" type=text/css"/>
 
 <div class="div">
