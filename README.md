@@ -3,25 +3,6 @@ This is a tribute to the world renouned scientist Albert Einstein.
 
 <link href="filename.css" rel="stylesheet" type=text/css"/>
 
-  .div{ text-align:center;
-        font-size:20px;
-  baackground:orange;
-  border:2px solid black;
-  background:silver;
- }
- img {max-width:700px;
-      max-height:500px;
- }
-#section {border:2px solid black;background:orange;}
-a:link{color:blue;}
-a:visited{color:green;}
-#art footer{text-align:right;
-            font-style:italic;}
-#foot{text-align:center;
-      border-top:1px solid green;
-      background:silver;}
-h3{text-align:center;font-style:italic;}
-
 <div class="div">
 <header id="header">
 <h1>AL<div class="div">
