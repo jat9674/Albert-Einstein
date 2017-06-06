@@ -1,10 +1,8 @@
 # Albert-Einstein
 This is a tribute to the world renouned scientist Albert Einstein.
 
-<!DOCTYPE <html>
-<head>
 <link href="filename.css" rel="stylesheet" type=text/css"/>
-  <style type="text/css">
+
   .div{ text-align:center;
         font-size:20px;
   baackground:orange;
@@ -23,9 +21,7 @@ a:visited{color:green;}
       border-top:1px solid green;
       background:silver;}
 h3{text-align:center;font-style:italic;}
-</style>
-</head>
-<body>
+
 <div class="div">
 <header id="header">
 <h1>AL<div class="div">
@@ -117,6 +113,5 @@ April 18: He died in Princeton Hospital at the age of 76ss</li>
 
 <footer id="foot">
   copyright@KINGram</footer>
-</body>
-</html>
+
 
