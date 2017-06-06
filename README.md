@@ -2,8 +2,6 @@
 
 <div class="div">
 <header id="header">
-<h1>AL<div class="div">
-<header id="header">
 <h1>ALBERT EINSTEIN</h1>
 </header>
 <p>
